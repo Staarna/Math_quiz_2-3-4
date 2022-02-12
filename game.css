@@ -1,0 +1,12 @@
+#body_background {
+background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Red_Color.jpg/1536px-Red_Color.jpg");
+}
+
+#output {
+background-color:white;
+border-radius:10px;
+border-top:20px solid #AA4465;
+float:none;
+text-align: left;
+}
+

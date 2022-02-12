@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg");
+    mask-position: center;
+    background-size: cover;
+}
+
+
+h3 {
+    font-family: cursive;
+    font-size:40px;
+}
+
+
+h1 {
+    font-size:60px;
+    font-family:Cursive;
+}
+
+
+label {
+    font-family: cursive;
+    font-size:18px;
+}
